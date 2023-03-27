@@ -1,0 +1,11 @@
+1. Imprimir os números pares menores que 100 e exibir na janela do navegador, linha a linha com o título "Número 2", "Número 4", ...
+
+2. Solicitar ao usuário um número inteiro de 1 a 10 e calcular a tabuada deste número na janela do navegador, linha a linha.
+
+3. Multiplicar os números de 1 a 500, exibindo o total em um alert. Exemplo: 1 * 2 * 3 * .... 500.
+
+4. Exibir em uma página html os 15 primeiros números da sequência de Fibonacci, apresentando uma imagem sobre a série.
+
+5. Solicitar ao usuário um número inteiro qualquer e, apresentar em um alert a raiz quadrada, raiz cúbica e a potência do valor.
+
+6. Solicite ao usuário os dados de altura, peso e sexo de 5 pessoas. Exiba no documento da página, quantas pessoas são do sexo masculino e quantas pessoas são do sexo feminino. Mostre também qual é o IMC (Índice de massa corporal) de cada pessoa, levando em consideração o sexo delas..
