@@ -4,8 +4,10 @@ n1 = 0
 n2 = 1
 
 // For para a realização do calculo
-for(var i = 1; i <= 15; i++){
-    soma = n1 + n2
-    n1 = n2 + soma
+for(var i = 0; i <= 15; i++){
+    soma = n1 + n2;
+    n1 = n2;
+    n2 = soma;
     document.write("<b>Número: </b>", n1 , "<br><br>");
 }
+document.write('<br> <img src="js/panhanha.png" alt="Cade?">')
